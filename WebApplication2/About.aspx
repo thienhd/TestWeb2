@@ -4,4 +4,5 @@
     <h2><%: Title %>.</h2>
     <p>Your app description page.</p>
     <p>Use this area to provide additional information.</p>
+    <p>Test again in Local before submit to GIT HUB</p>
 </asp:Content>
